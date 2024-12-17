@@ -18,7 +18,7 @@ The objective of this analysis is to address the inquiry regarding the sales tre
 This analysis is focused on identifying various customer segments, understanding purchasing trends, and evaluating the profitability associated with each of these customer segments.
 
 QUESTIONS:
-1.How many distinct cities are present in the dataset?\n
+1.How many distinct cities are present in the dataset?
 2.In which city is each branch situated?
 3.How many distinct product lines are there in the dataset?
 4.What is the most common payment method?
